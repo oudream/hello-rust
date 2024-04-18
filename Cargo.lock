@@ -19,6 +19,10 @@ name = "hash_map"
 version = "0.1.0"
 
 [[package]]
+name = "pointer"
+version = "0.1.0"
+
+[[package]]
 name = "primitive_type"
 version = "0.1.0"
 

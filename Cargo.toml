@@ -1,6 +1,6 @@
 [workspace]
 
 members = [ "condition", "function", "hash_map",
-    "network/*", "primitive_type",
+    "network/*", "pointer", "primitive_type",
     "start/*", "variable", "vector",
 ]
